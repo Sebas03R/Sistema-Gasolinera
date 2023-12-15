@@ -1,0 +1,17 @@
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\bin\Debug\net7.0-windows\Gasolinera.exe
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\bin\Debug\net7.0-windows\Gasolinera.deps.json
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\bin\Debug\net7.0-windows\Gasolinera.runtimeconfig.json
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\bin\Debug\net7.0-windows\Gasolinera.dll
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\bin\Debug\net7.0-windows\Gasolinera.pdb
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.Form1.resources
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.csproj.GenerateResource.cache
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.AssemblyInfoInputs.cache
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.AssemblyInfo.cs
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.dll
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\refint\Gasolinera.dll
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.pdb
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.genruntimeconfig.cache
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\ref\Gasolinera.dll
+C:\Users\deadz\source\repos\Gasolinera\Gasolinera\obj\Debug\net7.0-windows\Gasolinera.Form2.resources
